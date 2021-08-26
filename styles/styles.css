@@ -1,0 +1,19 @@
+body {
+  background-color: #000000;
+}
+
+.navbar {
+  background-color: #000000 !important;
+}
+#netflix-logo {
+  width: 210px;
+  height: 100px;
+}
+
+.col {
+  margin-top: 10px;
+}
+
+.card {
+  width: 18rem;
+}
